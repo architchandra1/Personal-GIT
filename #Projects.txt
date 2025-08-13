@@ -1,0 +1,33 @@
+#Projects
+
+## E-Commerce and Marketplace Project using PrestaShop
+
+In this project we have created an ecommerce and marketplace platform for a beauty and personal care brand. 
+The website is created on PrestaShop 1.7 with default webpages such as home,about, categories, my account. We have created different categories for their different products. 
+
+### Add products with categories.
+
+- products with combinations
+- attributes of the product 
+- add shipping to PrestaShop
+- host PrestaShop website
+
+For marketplace, we have used Multi Vendor Marketplace addon. 
+
+
+## BoxHero
+
+BoxHero is a logistic service where people of American can schedule returns for their ecommerce product. What happens in the US is, if a customer needs to return any package that they've purchased online, they need to deleiver that to their nearest ecommerce store. That where BoxHero comes in. 
+
+Customers can schedule their pickup and drop location and on the behalf, BoxHero will send their own delivery partner and will complete the deliver. Also, if anyone wants to register their as zone, they can do it with their merchant web page. 
+
+In this project, for the end user we have have a web and mobile application where the users can schedule their return. The pricing will be calculated on the basis of the distance as well as the box size and the packing. 
+
+For the merchant, the user have a web portal where merchat can set their per km price and zone area in the in the map. This zone area will be automatically help the end users to find the nearest hub.
+
+To manage all these features, we have an admin portal where the admin can approve or deny any new merchant as well as set the prices. 
+
+## Mobile Payments
+
+
+## Logistic Shipping Service 
